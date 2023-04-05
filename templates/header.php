@@ -44,7 +44,7 @@ $userData = $userDao->verifyToken(false);
         <nav id="main-navbar" class="navbar navbar-expand-lg">
             <a href="<?= $BASE_URL ?>" class="navbar-brand">
                 <img src="<?= $BASE_URL ?>img/logo.svg" alt="Moviestar" id="logo">
-                <span id="moviestar">Main</span>
+                <span id="moviestar">Main logo</span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="toggle-navigation">
                 <i class="fas fa-bars"></i>
